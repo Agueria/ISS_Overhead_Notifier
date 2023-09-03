@@ -20,7 +20,7 @@ This Python script uses two APIs to notify you via email when the International 
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/yourusername/iss-overhead-notifier.git
+    git clone https://github.com/Agueria/ISS_Overhead_Notifier.git
     ```
 
 2. Navigate to the cloned directory.
