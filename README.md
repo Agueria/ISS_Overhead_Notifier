@@ -26,7 +26,7 @@ This Python script uses two APIs to notify you via email when the International 
 2. Navigate to the cloned directory.
 
     ```bash
-    cd iss-overhead-notifier
+    cd ISS_Overhead_Notifier
     ```
 
 3. Install the required packages.
